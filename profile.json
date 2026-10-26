@@ -1,0 +1,6 @@
+{
+  "gameVersion": "26.2",
+  "fabricLoader": "latest",
+  "jvmArgs": [],
+  "manifest": "manifest.json"
+}

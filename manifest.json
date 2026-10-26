@@ -1,0 +1,25 @@
+{
+  "mods": [
+    { "name": "Fabric API", "description": "Библиотека, без которой не работают остальные моды",
+      "projectId": "P7dR8mSH", "icon": "icons/fabric-api.png", "optional": false },
+    { "name": "Sodium", "description": "Быстрая отрисовка, больше FPS",
+      "projectId": "AANobbMI", "icon": "icons/sodium.png", "optional": false },
+    { "name": "Iris Shaders", "description": "Шейдеры: выбрать в игре клавишей O",
+      "projectId": "YL57xq9U", "icon": "icons/iris.png", "optional": false },
+
+    { "name": "Карта мира и миникарта", "description": "Миникарта в углу и полная карта на M",
+      "projectId": "1bokaNcj", "with": ["NcUtCpym"], "icon": "icons/xaeros-minimap.png",
+      "optional": true, "defaultEnabled": true },
+    { "name": "Zoomify", "description": "Приближение камеры на C",
+      "projectId": "w7ThoJFB", "icon": "icons/zoomify.png", "optional": true, "defaultEnabled": true },
+    { "name": "Shulker Box Tooltip", "description": "Содержимое шалкера при наведении",
+      "projectId": "2M01OLQq", "icon": "icons/shulkerboxtooltip.png", "optional": true, "defaultEnabled": true },
+    { "name": "Lithium", "description": "Оптимизация игровой логики",
+      "projectId": "gvQqBUqZ", "icon": "icons/lithium.png", "optional": true, "defaultEnabled": false },
+
+    { "name": "BSL", "projectId": "Q1vvjJYV", "type": "shader", "optional": false },
+    { "name": "Complementary Unbound", "projectId": "R6NEzAwj", "type": "shader", "optional": false },
+    { "name": "Complementary Reimagined", "projectId": "HVnmMxH1", "type": "shader", "optional": false },
+    { "name": "Solas", "projectId": "EpQFjzrQ", "type": "shader", "optional": false }
+  ]
+}
