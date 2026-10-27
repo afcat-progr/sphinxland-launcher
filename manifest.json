@@ -6,6 +6,8 @@
       "projectId": "AANobbMI", "icon": "icons/sodium.png", "optional": false },
     { "name": "Iris Shaders", "description": "Шейдеры: выбрать в игре клавишей O",
       "projectId": "YL57xq9U", "icon": "icons/iris.png", "optional": false },
+    { "name": "Simple Voice Chat", "description": "Голосовой чат: говорить — Caps Lock, настройки — V",
+      "projectId": "9eGKb6K1", "icon": "icons/simple-voice-chat.png", "optional": false },
 
     { "name": "Карта мира и миникарта", "description": "Миникарта в углу и полная карта на M",
       "projectId": "1bokaNcj", "with": ["NcUtCpym"], "icon": "icons/xaeros-minimap.png",
